@@ -21,9 +21,9 @@ IDS works by taking command line arguments specifying the image to be displayed,
 	command format:
 		*.exe <image path> [font size] [options]
 
-if flag -a is left out of the arguments the image will be displayed using ascii character 0xDB (219)
+If flag -a is left out of the arguments the image will be displayed using ascii character 0xDB (219)
 
-the image path will default to your desktop if the image cannot be found through the path provided
+The image path will default to your desktop if the image cannot be found through the path provided
 
 	so you can do:
 	*.exe bar.png
