@@ -30,4 +30,4 @@ The image path will default to your desktop if the image cannot be found through
 	instead of:
 	*.exe c:/users/foo/desktop/bar.png
 
-When using IDS make sure not to use ctrl + c to exit the program (instead just press any character) as this will prevent IDS from setting the console properties back to a default setting. If you accidentally stop executing with ctrl + c you can either run IDS again with any image and exit the program properly or use the ConsoleFix program included in the bin folder to reset your command prompt (sometimes just closing the console and re-opening it works too)
+When using IDS make sure not to use `Ctrl + C` to exit the program (instead just press any character) as this will prevent IDS from setting the console properties back to a default setting. If you accidentally stop executing with `Ctrl + C` you can either run IDS again with any image and exit the program properly or use the `ConsoleFix` program included in the bin folder to reset your command prompt (sometimes just closing the console and re-opening it works too)
